@@ -70,7 +70,7 @@ table td { border: 1px solid #e8e8e8; }
 hr { border-color: #EEEEEE; border-style: solid none; border-width: 1px 0; margin: 18px 0; }
 
 /** Site header */
-.site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; line-height: 54px; position: relative; }
+.site-header { border-top: 5px solid #000723; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; line-height: 54px; position: relative; }
 
 .site-title { font-size: 26px; font-weight: 300; letter-spacing: -1px; margin-bottom: 0; float: left; }
 @media screen and (max-width: 600px) { .site-title { padding-right: 45px; } }
