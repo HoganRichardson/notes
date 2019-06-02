@@ -1,9 +1,9 @@
-title: CourseCode
+title: cs9417
 author: Hogan Richardson
 description: > # this means to ignore newlines until "show_exerpts:"
-  Course Description
-course-page: https://webcms3.cse.unsw.edu.au
-course-title: COMPxxxx
+  Machine Learning & Data Mining
+course-page: https://webcms3.cse.unsw.edu.au/COMP9417/19T2/
+course-title: COMP9417
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
