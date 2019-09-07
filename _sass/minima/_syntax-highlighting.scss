@@ -88,6 +88,11 @@ figure.highlight {
   width: 100%;
 }
 
+div.highlight {
+  /* Fix Width Issuses */
+  display: flex;
+}
+
 .highlight .hll {
   background-color: $base06;
 }
